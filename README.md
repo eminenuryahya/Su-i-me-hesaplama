@@ -1,1 +1,1 @@
-# Su-i-me-hesaplama
+# Su-icme-hesaplama
